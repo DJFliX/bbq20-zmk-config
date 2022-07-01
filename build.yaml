@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: rpi_pico
+  - board: boardsource_blok
     shield: reviung41
   # - board: rpi_pico
   #   shield: reviung41
