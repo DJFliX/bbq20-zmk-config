@@ -14,4 +14,3 @@
 ---
 include:
   - board: rpi_pico
-    shield: planck_rev6
