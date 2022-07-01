@@ -13,4 +13,5 @@
 #
 ---
 include:
-  - board: planck_rev6
+  - board: rpi_pico
+    shield: planck_rev6
