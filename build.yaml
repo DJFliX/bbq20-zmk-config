@@ -14,3 +14,4 @@
 ---
 include:
   - board: rpi_pico
+    shield: reviung41
